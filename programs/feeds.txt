@@ -1,0 +1,11 @@
+0   - Non filtered
+1   - Movement detection
+2   - Human detection
+3   - Red
+4   - Green
+5   - Blue
+6   - Gray-scaled
+7   - Gray-scaled inverted
+8   - Threshold feed
+9   - Difference feed
+10  - Inverted feed 
