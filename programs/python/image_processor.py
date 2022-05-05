@@ -1,13 +1,13 @@
 from datetime import datetime
 import keyboard, numpy, cv2, time, pandas
 from cv2 import aruco as aruco
-
 import numpy as np
 import PIL
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import pandas as pd
 class image_processor:
+ 
     """A class used to process images through opencv-python, mainly for our end-of-the-year
     project in our STI2D class. The class is fairly easy to use, as you can switch feeds by changing the `key`
     attribute with `image_processor.key = [insert wanted frame]`. Good luck using it, if it ever fucks up just
